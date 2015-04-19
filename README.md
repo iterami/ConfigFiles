@@ -1,1 +1,4 @@
-An unofficial collection of various configuration files.
+ConfigFiles
+-----------
+
+Various unofficial CC0 configuration files.
