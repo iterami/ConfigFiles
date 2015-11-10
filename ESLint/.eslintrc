@@ -1,4 +1,4 @@
-// Empty .eslintrc file.
+// Generic .eslintrc file.
 {
   "emcafeatures": {
     "arrowFunctions": true,
