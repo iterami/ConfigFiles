@@ -79,6 +79,7 @@
     "scroll_past_end": true,
     "scroll_speed": 1.0,
     "shift_tab_unindent": false,
+    "show_definitions": true,
     "show_encoding": false,
     "show_full_path": true,
     "show_line_endings": false,
