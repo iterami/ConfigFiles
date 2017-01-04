@@ -1,19 +1,17 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
-    "always_show_minimap_viewport": true,
-    "default_line_ending": "unix",
-    "draw_minimap_border": true,
-    "enable_telemetry": false,
-    "ensure_newline_at_eof_on_save": true,
-    "rulers": [
-      80,
-    ],
-    "save_on_focus_lost": true,
-    "scroll_past_end": false,
-    "show_definitions": false,
-    "show_full_path": false,
-    "show_tab_close_buttons": false,
-    "trim_automatic_white_space": true,
-    "trim_trailing_white_space_on_save": true
+  "always_show_minimap_viewport": true,
+  "default_line_ending": "unix",
+  "draw_minimap_border": true,
+  "enable_telemetry": false,
+  "ensure_newline_at_eof_on_save": true,
+  "rulers": [
+    80,
+  ],
+  "save_on_focus_lost": true,
+  "scroll_past_end": false,
+  "show_definitions": false,
+  "show_full_path": false,
+  "show_tab_close_buttons": false,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true
 }
