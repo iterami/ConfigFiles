@@ -1,4 +1,4 @@
 iterami/ConfigFiles
 -------------------
 
-Various unofficial CC0 configuration files.
+* Contributing: https://github.com/iterami/Documentation.htm/blob/gh-pages/CONTRIBUTING.md
